@@ -31,22 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Lets connect on Hashnode ",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Hashnode is a free developer blogging platform that allows you to publish articles on your own domain and helps you stay connected with a global developer community",
+    url: "https://hashnode.com/@rishavk22",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Microsoft Learn Student Ambassadors - Alpha",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "The MLSA program is designed to provide students with the skills and support needed to become leaders and mentors in their community while developing technical skills and emotional intelligence to succeed in their future career.",
+    url: "https://mvp.microsoft.com/studentambassadors/certificate/1e752734-e027-4869-982a-081ca0c78d10",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Here is my Resume. Includes my experience and design abilities.",
+    url: "https://drive.google.com/file/d/1LzU19ApSbHtjUEOiz9woniBxT5PvQdwl/view?usp=sharing",
   },
   {
     title: "GitHub Codespaces and github.dev",
